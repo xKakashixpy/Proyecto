@@ -19,3 +19,61 @@
     width: 400px; /* Ajusta el ancho de la imagen según tus necesidades */
     margin-right: 40px; /* Espacio entre la imagen y el texto */
   }
+
+  .container3 {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .container3 h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .container3 label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .container3 input[type="text"],
+  .container3 input[type="email"],
+  .container3 textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  .container3 textarea {
+    height: 120px;
+  }
+
+  .container3 input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+
+  .container3 input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+
+
+
+
+
+ 
